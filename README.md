@@ -68,6 +68,14 @@ Because the notebooks are committed with their outputs intact, every result belo
 5. Organon's fiscal year (December) and Sun Pharma's (March) were reconciled to trailing-twelve-month figures only where directly compared; other same-period comparisons use each company's own most recent annual filing.
 6. This is a point-in-time analysis as of 6 August 2026 — prices, spreads, and implied probabilities move daily.
 
+## Disclaimer
+
+This is an independent analytical exercise, not investment advice, and not a recommendation to buy or sell any security. Organon & Co (NYSE: OGN) and Sun Pharmaceutical Industries (NSE: SUNPHARMA) are live traded securities and the transaction analysed here was still pending at the time of writing. All figures are point-in-time as of the 6 August 2026 close and will have moved since. The author holds no position in either security. Anyone acting on this does so entirely at their own risk.
+
+## License
+
+MIT — see [LICENSE](LICENSE). The code is free to reuse with attribution. The written analysis in `reports/` and `presentation/` is the author's own work.
+
 ## Author
 
 Shaswat Sharma
