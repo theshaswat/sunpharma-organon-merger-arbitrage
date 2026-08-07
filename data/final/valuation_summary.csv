@@ -1,0 +1,16 @@
+,value
+beta_pre_leak,0.9694471496063236
+risk_free_rate,0.04293000221252442
+equity_risk_premium,0.0445
+cost_of_equity,0.08607040037000582
+wacc_embedded,0.05289148576192679
+wacc_market_implied,0.06606686305875661
+wacc_marginal_synthetic,0.07896100513367128
+wacc_used,0.06606686305875661
+standalone_value_per_share,6.899994081801754
+unaffected_market_price,6.899950714637753
+offer_price,14.0
+tv_share_of_ev,0.7769584434996609
+implied_revenue_growth_required,0.03873502315827808
+historical_2yr_revenue_cagr,-0.0037592614568487948
+implied_synergy_value_usd_bn,1.8645234323920823

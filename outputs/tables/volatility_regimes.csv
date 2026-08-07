@@ -1,0 +1,5 @@
+period,n_days,annualised_vol
+2021-2025 baseline,1163,0.4478
+pre-leak (2025 H2),138,0.5802
+leak to announcement,68,0.9418
+post-announcement,69,0.0446

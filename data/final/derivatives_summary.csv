@@ -1,0 +1,9 @@
+,value
+option_chain_usable,False
+vol_used_for_pricing,0.5802
+put_premium_correct_vol,0.07973548965761984
+put_premium_circular_vol,1.0982768775397926e-105
+circular_pricing_understatement_pct,1.0
+put_delta,-0.03061057372504583
+collar_net_cost,-2.1492846518407234
+risk_neutral_value_check,13.242470618009515

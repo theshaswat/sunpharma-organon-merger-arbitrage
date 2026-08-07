@@ -1,0 +1,8 @@
+,value
+garch_pre_persistence,0.9224103709157095
+garch_pre_longrun_annualised_vol,0.45004416410027187
+arima_ar1_coefficient,0.9582238171277205
+gc_ogn_to_sun_lag1_pvalue,9.800881794818978e-05
+gc_sun_to_ogn_lag1_pvalue,0.5690839414797
+sameday_sun_to_ogn_pvalue,0.9756613651100222
+sameday_sun_coefficient,0.0019640154526462243

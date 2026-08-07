@@ -1,0 +1,10 @@
+,value
+ogn_car_announcement_pm5d,0.33033486289118247
+ogn_car_announcement_tstat,2.5241197137046765
+sun_car_announcement_pm5d,0.09622260601084251
+sun_car_announcement_tstat,2.6361270864905184
+leak_volume_ratio,1.0431156420380374
+leak_volume_zscore,0.05219706662793691
+pct_move_pre_announcement_simple,0.6960000610351562
+pct_move_pre_announcement_log,0.7579598036214514
+peer_spillover_significant_count,0.0

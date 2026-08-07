@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# Office lock files, created whenever a workbook or document is open
+~$*
+.~lock.*
+
+# Raw vendor pulls: 68 timestamped price/statement files, ~1.4 MB.
+# Regenerated in one run by notebooks/01_data_acquisition_and_validation.ipynb,
+# so committing them adds bulk without adding information - and avoids
+# redistributing Yahoo Finance data. The derived summaries the rest of the
+# analysis actually consumes (data/final, data/external) ARE committed.
+data/raw/
+data/processed/
+
+# Editable Office originals. The PDF exports are committed instead: GitHub
+# previews PDFs inline in the browser but cannot preview .docx or .pptx at
+# all, so the PDF is the version a reader will actually open.
+reports/Final_Report.docx
+presentation/IC_Deck.pptx

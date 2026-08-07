@@ -1,0 +1,11 @@
+,value
+spot,13.569999694824219
+gross_spread,0.03168756925910543
+implied_p_completion_unaffected_basis,0.9393511571337797
+breakeven_p_unaffected_basis,0.9393511571337796
+position_beta_vs_sp500,0.04907973815443222
+mc_mean_holding_return,-0.010437135441423445
+mc_prob_loss,0.08066
+mc_var95,-0.47817791142533034
+mc_cvar95,-0.5153336712782344
+tangency_weight_arb,0.0

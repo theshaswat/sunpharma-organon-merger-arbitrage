@@ -1,0 +1,10 @@
+,value
+vol_baseline,0.4478
+vol_pre_leak,0.5802
+vol_leak_to_announcement,0.9418
+vol_post_announcement,0.0446
+spread_today,0.031687569259105375
+corr_ogn_sunpharma,0.0016834402857869117
+adf_pvalue_spread,0.029313638576517802
+arch_effect_pre_announcement,True
+arch_effect_post_announcement,False
